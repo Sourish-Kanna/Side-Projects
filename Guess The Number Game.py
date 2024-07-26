@@ -21,7 +21,7 @@ while ctr<5:
             print("Number is above the number")
         ctr+=1
 if not ctr<5:
-    print ("You lose:( \nThe number was ", n)
+    print ("You lose :( \nThe number was ", n)
 
 import time
 time.sleep(5)
