@@ -12,6 +12,8 @@ These are my other side projects which are not that big for a dedicated reposito
 
 ## Guess The Number Game
 
+[Go To Start](#side-projects)
+
 ```Text
 Guess the number in range 1..100: 50
 Number is little below
@@ -40,8 +42,12 @@ The number was  84
 
 ## Calculator Application
 
+[Go To Start](#side-projects)
+
 ![Recording 2024-07-26 185959](https://github.com/user-attachments/assets/c4c77f29-aaae-46f0-855d-c31ae3cad380)
 
 ## Tic Tac Toe Game
+
+[Go To Start](#side-projects)
 
 ![Recording 2024-07-26 190705](https://github.com/user-attachments/assets/c197eb4e-4e2b-4f59-9710-4f71e0197bcf)
