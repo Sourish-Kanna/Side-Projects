@@ -2,7 +2,7 @@
 
 ## Text Version
 
-```Java
+```Text
 Enter Message: Hello World
 Enter Code[1-26]: 11
 1] Encrypt
