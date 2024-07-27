@@ -5,13 +5,14 @@ These are my other side projects which are not that big for a dedicated reposito
 - [Side Projects](#side-projects)
   - [Python Cesar Cipher Encryption](https://github.com/Sourish-Kanna/Side-Projects/tree/main/Python%20Cesar%20Cipher%20Encryption)
   - [Java Cesar Cipher Encryption](https://github.com/Sourish-Kanna/Side-Projects/tree/main/Java%20Cesar%20Cipher%20Encryption)
+  - [Python Turtle Patterns](https://github.com/Sourish-Kanna/Side-Projects/tree/main/Python%20Turtle%20Patterns)
   - [Guess The Number Game](#guess-the-number-game)
   - [Calculator Application](#calculator-application)
   - [Tic Tac Toe Game](#tic-tac-toe-game)
 
 ## Guess The Number Game
 
-```Python
+```Text
 Guess the number in range 1..100: 50
 Number is little below
 Guess the number in range 1..100: 65
