@@ -4,7 +4,7 @@
 
 ## This is Improved Version and turned into message into ASCII Charater List
 
-```Python
+```Text
 Enter your message: Hello GitHub !!
 Enter you key [1 - 26]: 26
 Encrypt or Decrypt? [E/D]: e
@@ -18,7 +18,7 @@ Your message  Hello GitHub !!
 
 ## This is Original Version Type 1
 
-```Python
+```Text
 Enter your message: Hello World
 Enter you key [1 - 26]: 11
 Encrypt or Decrypt? [E/D]: e
@@ -32,7 +32,7 @@ Your message  Hello World
 
 ## This is Original Version Type 2
 
-```Python
+```Text
 Enter your message: Hello World
 Encrypt or Decrypt? [E/D]: e
 Your code [72, 101, 108, 108, 111, 32, 87, 111, 114, 108, 100]
