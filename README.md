@@ -9,6 +9,7 @@ These are my other side projects which are not that big for a dedicated reposito
   - [Guess The Number Game](#guess-the-number-game)
   - [Calculator Application](#calculator-application)
   - [Tic Tac Toe Game](#tic-tac-toe-game)
+  - [Finance Calculator](#finance-calculator)
 
 ## Guess The Number Game
 
@@ -51,3 +52,24 @@ The number was  84
 [Go To Start](#side-projects)
 
 ![Recording 2024-07-26 190705](https://github.com/user-attachments/assets/c197eb4e-4e2b-4f59-9710-4f71e0197bcf)
+
+## Finance Calculator
+
+[Go To Start](#side-projects)
+
+```Text
+Enter your Monthy income: 100000
+Enter your Tax rate: 28
+Enter Monthy Expendiure: 25000
+--------------------------------------------------
+Tax rate = 28%
+Monthy income = ₹100,000.00
+Monthy tax = ₹28,000.00
+Monthy expenditure = ₹25,000.00
+Monthy net income = ₹47,000.00
+Yearly income = ₹1,200,000.00
+Yearly tax = ₹336,000.00
+Yearly expenditure = ₹300,000.00
+Yearly net income = ₹564,000.00
+--------------------------------------------------
+```
