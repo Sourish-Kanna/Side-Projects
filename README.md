@@ -10,6 +10,7 @@ These are my other side projects which are not that big for a dedicated reposito
   - [Calculator Application](#calculator-application)
   - [Tic Tac Toe Game](#tic-tac-toe-game)
   - [Finance Calculator](#finance-calculator)
+  - [Expense Spiltter](#expense-spiltter)
 
 ## Guess The Number Game
 
@@ -41,18 +42,6 @@ You lose :(
 The number was  84
 ```
 
-## Calculator Application
-
-[Go To Start](#side-projects)
-
-![Recording 2024-07-26 185959](https://github.com/user-attachments/assets/c4c77f29-aaae-46f0-855d-c31ae3cad380)
-
-## Tic Tac Toe Game
-
-[Go To Start](#side-projects)
-
-![Recording 2024-07-26 190705](https://github.com/user-attachments/assets/c197eb4e-4e2b-4f59-9710-4f71e0197bcf)
-
 ## Finance Calculator
 
 [Go To Start](#side-projects)
@@ -73,3 +62,44 @@ Yearly expenditure = ₹300,000.00
 Yearly net income = ₹564,000.00
 --------------------------------------------------
 ```
+
+## Expense Spiltter
+
+[Go To Start](#side-projects)
+
+```Text
+--------------------------------------------------
+Enter the total amount of the expense: 10000
+Enter the number of people sharing the expense: 3
+Do you want to split unevenly? 
+Type "Y" or "N": n
+Total expense: ₹10,000.00
+Number of people: 3
+Each person should pay: ₹3,333.33
+--------------------------------------------------
+
+--------------------------------------------------
+Enter the total amount of the expense: 10000
+Enter the number of people sharing the expense: 3
+Do you want to split unevenly?
+Type "Y" or "N": y
+Enter Shares with space in between: 20 30 50
+Total expense: ₹10,000.00
+Number of people: 3
+Person 1: ₹2000.0
+Person 2: ₹3000.0
+Person 3: ₹5000.0
+--------------------------------------------------
+```
+
+## Calculator Application
+
+[Go To Start](#side-projects)
+
+![Recording 2024-07-26 185959](https://github.com/user-attachments/assets/c4c77f29-aaae-46f0-855d-c31ae3cad380)
+
+## Tic Tac Toe Game
+
+[Go To Start](#side-projects)
+
+![Recording 2024-07-26 190705](https://github.com/user-attachments/assets/c197eb4e-4e2b-4f59-9710-4f71e0197bcf)
