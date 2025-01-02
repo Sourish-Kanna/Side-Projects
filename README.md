@@ -3,14 +3,15 @@
 These are my other side projects which are not that big for a dedicated repository
 
 - [Side Projects](#side-projects)
-  - [Python Cesar Cipher Encryption](https://github.com/Sourish-Kanna/Side-Projects/tree/main/Python%20Cesar%20Cipher%20Encryption)
-  - [Java Cesar Cipher Encryption](https://github.com/Sourish-Kanna/Side-Projects/tree/main/Java%20Cesar%20Cipher%20Encryption)
-  - [Python Turtle Patterns](https://github.com/Sourish-Kanna/Side-Projects/tree/main/Python%20Turtle%20Patterns)
+  - [Python Cesar Cipher Encryption](https://github.com/Sourish-Kanna/Side-Projects/tree/main/Python%20Cesar%20Cipher%20Encryption/README.md)
+  - [Java Cesar Cipher Encryption](https://github.com/Sourish-Kanna/Side-Projects/tree/main/Java%20Cesar%20Cipher%20Encryption/README.md)
+  - [Python Turtle Patterns](https://github.com/Sourish-Kanna/Side-Projects/tree/main/Python%20Turtle%20Patterns/README.md)
   - [Guess The Number Game](#guess-the-number-game)
   - [Calculator Application](#calculator-application)
   - [Tic Tac Toe Game](#tic-tac-toe-game)
   - [Finance Calculator](#finance-calculator)
   - [Expense Spiltter](#expense-spiltter)
+  - [Word Frequency](#word-frequency)
 
 ## Guess The Number Game
 
@@ -89,6 +90,20 @@ Number of people: 3
 Person 1: ₹2000.0
 Person 2: ₹3000.0
 Person 3: ₹5000.0
+--------------------------------------------------
+```
+
+## Word Frequency
+
+[Go To Start](#side-projects)
+
+```Text
+--------------------------------------------------
+Do you want to open a file? (y/n): n
+Enter your text: Hello GitHub Hello World
+hello: 2
+github: 1
+world: 1
 --------------------------------------------------
 ```
 

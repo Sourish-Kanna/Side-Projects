@@ -1,7 +1,5 @@
 # Encryption and Decryption Program using Caesar-shift cipher method
 
-## [Live Demo](https://colab.research.google.com/drive/1syLKgVpSJHJrzW4zPXFQ74Y955KlsJ3z?usp=sharing)
-
 ## This is Improved Version and turned into message into ASCII Charater List
 
 ```Text
