@@ -1,8 +1,8 @@
 Cap = 'QWERTYUIOPASDFGHJKLZXCVBNM'
 Num = '0123456789'
 Sym = '_-=+/*!@#$%^&:;"\'\\<>,.?`()}{[] '
-LETTERS = Cap+Num+Cap.lower()+Sym
-end = len(LETTERS)
+LETTERS: str = Cap+Num+Cap.lower()+Sym
+end: int = len(LETTERS)
 
 def encrypt(message, key):
     encrypted = ''
@@ -45,7 +45,7 @@ def decrypt(message, key):
 
 message = str(input('Enter your message: '))
 key = int(input('Enter you key [1 - 26]: '))
-choice = input('Encrypt or Decrypt? [E/D]: ')
+choice: str = input('Encrypt or Decrypt? [E/D]: ')
 
 if choice.lower().startswith('e'):
     print('Your code',encrypt(message, key))
