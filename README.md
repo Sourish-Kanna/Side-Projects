@@ -14,6 +14,7 @@ These are my other side projects which are not that big for a dedicated reposito
   - [Word Frequency](#word-frequency)
   - [Notepad Application](#notepad-application)
   - [Website Status Checker](#website-status-checker)
+  - [Password Generator](#password-generator)
 
 ## Guess The Number Game
 
@@ -121,6 +122,17 @@ Status Code: 200
 Content Type: text/html; charset=utf-8
 Server: GitHub.com
 Response Time: 0.59 seconds
+--------------------------------------------------
+```
+
+## Password Generator
+
+[Go To Start](#side-projects)
+
+```Text
+--------------------------------------------------
+U8Wke5XSTHNxZp9?w)J5 (20 chars)
+Strength: True
 --------------------------------------------------
 ```
 
