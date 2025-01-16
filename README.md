@@ -13,6 +13,7 @@ These are my other side projects which are not that big for a dedicated reposito
   - [Expense Spiltter](#expense-spiltter)
   - [Word Frequency](#word-frequency)
   - [Notepad Application](#notepad-application)
+  - [Website Status Checker](#website-status-checker)
 
 ## Guess The Number Game
 
@@ -108,6 +109,21 @@ world: 1
 --------------------------------------------------
 ```
 
+## Website Status Checker
+
+[Go To Start](#side-projects)
+
+```Text
+--------------------------------------------------
+Enter the URL to check: https://github.com/Sourish-Kanna/Side-Projects
+URL: https://github.com/Sourish-Kanna/Side-Projects
+Status Code: 200
+Content Type: text/html; charset=utf-8
+Server: GitHub.com
+Response Time: 0.59 seconds
+--------------------------------------------------
+```
+
 ## Calculator Application
 
 [Go To Start](#side-projects)
@@ -124,4 +140,4 @@ world: 1
 
 [Go To Start](#side-projects)
 
-![Recording 2024-07-26 185959](https://github.com/user-attachments/assets/c4c77f29-aaae-46f0-855d-c31ae3cad380)
+![Screenshot 2025-01-16 203644](https://github.com/user-attachments/assets/5071ad3c-b5e2-4d03-8fa5-8f5c0ed6a327)
