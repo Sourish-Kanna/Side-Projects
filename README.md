@@ -15,6 +15,7 @@ These are my other side projects which are not that big for a dedicated reposito
   - [Notepad Application](#notepad-application)
   - [Website Status Checker](#website-status-checker)
   - [Password Generator](#password-generator)
+  - [Text Analysis](#text-analysis)
 
 ## Guess The Number Game
 
@@ -133,6 +134,24 @@ Response Time: 0.59 seconds
 --------------------------------------------------
 U8Wke5XSTHNxZp9?w)J5 (20 chars)
 Strength: True
+--------------------------------------------------
+```
+
+## Text Analysis
+
+[Go To Start](#side-projects)
+
+```Text
+--------------------------------------------------
+Text: "The red fox jumped over the blue river.
+
+Hello GitHub"
+This text file contains:
+Total Characters (including spaces): 53
+Total Characters (excluding spaces): 45
+Total Spaces: 8
+Total Words: 10
+Most Common Words: ['the', 'red', 'fox', 'jumped', 'over']
 --------------------------------------------------
 ```
 
