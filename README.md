@@ -5,6 +5,7 @@ These are my other side projects which are not that big for a dedicated reposito
 - [Side Projects](#side-projects)
   - [Python Cesar Cipher Encryption](https://github.com/Sourish-Kanna/Side-Projects/tree/main/Python%20Cesar%20Cipher%20Encryption/README.md)
   - [Java Cesar Cipher Encryption](https://github.com/Sourish-Kanna/Side-Projects/tree/main/Java%20Cesar%20Cipher%20Encryption/README.md)
+  - [Visitor Entry Log System (Class 11 Computer Project)](https://github.com/Sourish-Kanna/Side-Projects/tree/main/Visitors%20Entry%20Log/README.md)
   - [Python Turtle Patterns](https://github.com/Sourish-Kanna/Side-Projects/tree/main/Python%20Turtle%20Patterns/README.md)
   - [Guess The Number Game](#guess-the-number-game)
   - [Calculator Application](#calculator-application)
